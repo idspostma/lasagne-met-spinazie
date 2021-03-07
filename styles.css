@@ -1,0 +1,45 @@
+body {
+margin: auto 400px
+}
+.naam{
+  margin: 10px;
+}
+.email{
+  margin: 10px auto;
+}
+
+
+
+.lasange{
+  width: 704px;
+}
+.spinazie{
+  width: 130px;
+}
+.kaas{
+  width: 130px;
+}
+.main {
+  width: 600px;
+  height: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+ .formulier {
+  width: 704px;
+  border: 2px solid grey;
+  padding: 5px;
+  margin: 10px auto;
+}
+.formulier2 {
+ width: 704px;
+ border: 2px solid grey;
+ padding: 5px;
+ margin: 10px auto;
+}
+
+.checkbox-container {
+  filled-in: blue;
+}
