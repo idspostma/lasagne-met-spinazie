@@ -33,6 +33,7 @@ margin: auto 400px
   padding: 5px;
   margin: 10px auto;
 }
+
 .formulier2 {
  width: 704px;
  border: 2px solid grey;
@@ -40,6 +41,4 @@ margin: auto 400px
  margin: 10px auto;
 }
 
-.checkbox-container {
-  filled-in: blue;
-}
+
